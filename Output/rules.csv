@@ -1,0 +1,20 @@
+antecedents,consequents,antecedent support,consequent support,support,confidence,lift,leverage,conviction
+"({'second_mile_tat_hr_sub', 'second_mile_tat_hr_OSD'})",({'is_churn'}),0.999573423,0.706309934,0.706071051,0.706372373,1.000088402,6.24E-05,1.000212647
+({'second_mile_tat_hr_sub'}),({'is_churn'}),0.999948811,0.706309934,0.706309934,0.706346091,1.000051192,3.62E-05,1.000123129
+({'second_mile_tat_hr_OSD'}),({'is_churn'}),0.999624612,0.706309934,0.706071051,0.706336201,1.000037189,2.63E-05,1.000089445
+"({'Success_Rate_of_ISD', 'second_mile_tat_hr_sub', 'second_mile_tat_hr_OSD'})",({'is_churn'}),0.772787769,0.706309934,0.513718732,0.664760433,0.94117384,-0.032108946,0.87606027
+"({'Success_Rate_of_ISD', 'second_mile_tat_hr_OSD'})",({'is_churn'}),0.772838958,0.706309934,0.513718732,0.664716402,0.941111501,-0.032145102,0.875945223
+"({'Success_Rate_of_ISD', 'second_mile_tat_hr_sub'})",({'is_churn'}),0.773077842,0.706309934,0.5138723,0.664709648,0.941101938,-0.03216026,0.875927576
+({'Success_Rate_of_ISD'}),({'is_churn'}),0.773129031,0.706309934,0.5138723,0.664665637,0.941039627,-0.032196415,0.875812616
+"({'Success_Rate_of_OSD_HUB', 'second_mile_tat_hr_sub', 'second_mile_tat_hr_OSD'})",({'is_churn'}),0.643773675,0.706309934,0.405555745,0.629966339,0.891912047,-0.049147997,0.793684729
+"({'Success_Rate_of_OSD_HUB', 'second_mile_tat_hr_sub'})",({'is_churn'}),0.644132,0.706309934,0.405777565,0.629960265,0.891903447,-0.049179265,0.793671701
+"({'Success_Rate_of_OSD_HUB', 'second_mile_tat_hr_OSD'})",({'is_churn'}),0.643824864,0.706309934,0.405555745,0.629916251,0.891841132,-0.049184152,0.793577311
+({'Success_Rate_of_OSD_HUB'}),({'is_churn'}),0.644183189,0.706309934,0.405777565,0.629910206,0.891832573,-0.049215421,0.793564347
+"({'Success_Rate_of_ISD', 'Success_Rate_of_OSD_HUB', 'second_mile_tat_hr_sub', 'second_mile_tat_hr_OSD'})",({'is_churn'}),0.448059926,0.706309934,0.24135754,0.538672455,0.762657339,-0.075111636,0.636619402
+"({'Success_Rate_of_ISD', 'Success_Rate_of_OSD_HUB', 'second_mile_tat_hr_sub'})",({'is_churn'}),0.448349998,0.706309934,0.241511108,0.538666464,0.762648857,-0.07516295,0.636611134
+"({'Success_Rate_of_ISD', 'Success_Rate_of_OSD_HUB', 'second_mile_tat_hr_OSD'})",({'is_churn'}),0.448111115,0.706309934,0.24135754,0.538610921,0.762570218,-0.075147792,0.636534498
+"({'Success_Rate_of_ISD', 'Success_Rate_of_OSD_HUB'})",({'is_churn'}),0.448401188,0.706309934,0.241511108,0.53860497,0.762561793,-0.075199105,0.636526288
+"({'Success_Rate_of_SUBURB', 'second_mile_tat_hr_sub', 'second_mile_tat_hr_OSD'})",({'is_churn'}),0.406664847,0.706309934,0.213083985,0.523979356,0.741854717,-0.074147436,0.616969179
+"({'Success_Rate_of_SUBURB', 'second_mile_tat_hr_sub'})",({'is_churn'}),0.406852541,0.706309934,0.2131693,0.523947324,0.741809366,-0.074194691,0.616927665
+"({'Success_Rate_of_SUBURB', 'second_mile_tat_hr_OSD'})",({'is_churn'}),0.406716036,0.706309934,0.213083985,0.523913408,0.741761347,-0.074183592,0.616883716
+({'Success_Rate_of_SUBURB'}),({'is_churn'}),0.40690373,0.706309934,0.2131693,0.523881411,0.741716045,-0.074230847,0.616842258
